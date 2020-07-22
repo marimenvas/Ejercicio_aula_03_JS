@@ -1,0 +1,1 @@
+Iste é o primer exercício das aulas de JS do curso Toti.
